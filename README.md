@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sirapop Thongampa  
 
-🚀 **Full-Stack Developer | Data Analytics Enthusiast**
+🚀 **Full-Stack Developer**
 
 ## 🧑‍💻 About Me
 - 🌱 Currently learning Full-Stack Development at TechUp Bootcamp  
@@ -22,8 +22,8 @@
 
 ## 📫 Contact Me
 - 📧 hello@reallygreatsite.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sirapop-thongampa)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sirapop-thongampa-924353361/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
 
 ---
-⭐ From [LeoShinKung112](https://github.com/LeoShinKung112)
+⭐ From [LeoShinKung112](https://github.com/LeoShingKung112)
