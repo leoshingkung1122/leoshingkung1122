@@ -16,11 +16,11 @@
 
 ## 📂 Featured Projects
 - [Pet Sitter App](https://github.com/phumphut-rueng/Pet-Sitter-App) – Pet sitting web app with authentication, booking, and payments
-🔗 **Live Demo:** [https://pet-sitter-app-nine.vercel.app/](https://pet-sitter-app-nine.vercel.app/)
+-🔗 **Live Demo:** [https://pet-sitter-app-nine.vercel.app/](https://pet-sitter-app-nine.vercel.app/)
 - [My Personal Blog](https://github.com/leoshingkung1122/LeoShin-Blog-App) – Full-stack blog with CRUD, comments, and Supabase integration
-🔗 **Live Demo:** [https://leo-shin-blog-app.vercel.app/](https://leo-shin-blog-app.vercel.app/)
+-🔗 **Live Demo:** [https://leo-shin-blog-app.vercel.app/](https://leo-shin-blog-app.vercel.app/)
 - [Travel Destination Finder](https://github.com/leoshingkung1122/react-tourist-attraction-mini-project) – SPA with search & filter for travel destinations
-🔗 **Live Demo:** [https://react-tourist-attraction-mini-proje-pi.vercel.app/](https://react-tourist-attraction-mini-proje-pi.vercel.app/)
+-🔗 **Live Demo:** [https://react-tourist-attraction-mini-proje-pi.vercel.app/](https://react-tourist-attraction-mini-proje-pi.vercel.app/)
 
 ## 📫 Contact Me
 - 📧 sirapop1998@gmail.com  
